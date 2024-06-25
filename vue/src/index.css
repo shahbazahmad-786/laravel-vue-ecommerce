@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+
+/* @/views/admin/layout/Sidebar.vue */
+#admin-header .router-link-exact-active {
+  @apply bg-black/30;
+}
+
+/* @/views/app/layout/Header.vue */
+#app-header .router-link-exact-active {
+  @apply border-primary-600 text-primary-600;
+}
+
+@tailwind utilities;
