@@ -2,9 +2,9 @@ export default {
   /* ---------------- App-State ----------------- */
   app: {
     appName: "SA-Commerce",
-    appLogo: "http://localhost:3001/src/assets/images/logo/SACAsset 7@4x.png",
+    appLogo: "http://localhost:3000/src/assets/images/logo/SACAsset 7@4x.png",
     appFavIcon:
-      "http://localhost:3001/src/assets/images/logo/SACAsset 7@4x.png",
+      "http://localhost:3000/src/assets/images/logo/SACAsset 7@4x.png",
   },
 
   /* ------------ Notification-State ------------ */
